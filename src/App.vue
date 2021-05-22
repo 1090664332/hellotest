@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-      <p>javajavajavajavajava郭浩宇同学  Jenkis成功  行走的offer收割机</p>
+      <p>javajava郭浩宇同学  Jenkis成功  行走的offer收割机</p>
       <p>java1026javajavajava郭浩宇同学  Jenkis成功  前程似锦</p>
       <p>java1026java郭浩宇同学 Jenkis成功  争取第一周入职 第二周转正,第三周升为组长,第四周董事会</p>
       <img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3101694723,748884042&fm=26&gp=0.jpg"/>
